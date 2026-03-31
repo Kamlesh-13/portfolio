@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  src: url("/assets/fonts/PlusJakartaSans.woff2") format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/assets/fonts/JetBrainsMono.woff2") format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    --radius: 0.625rem;
+
+    /* Page background: #F3F6FA */
+    --background: 0.965 0.008 248;
+    /* Near-black text: #111827 */
+    --foreground: 0.182 0.014 264;
+
+    /* Card: white */
+    --card: 1 0 0;
+    --card-foreground: 0.182 0.014 264;
+
+    /* Popover: white */
+    --popover: 1 0 0;
+    --popover-foreground: 0.182 0.014 264;
+
+    /* Primary blue: #1E88FF */
+    --primary: 0.621 0.201 252;
+    --primary-foreground: 1 0 0;
+
+    /* Secondary: sidebar bg #F6F8FB */
+    --secondary: 0.975 0.005 252;
+    --secondary-foreground: 0.373 0.014 255;
+
+    /* Muted */
+    --muted: 0.96 0.006 250;
+    --muted-foreground: 0.556 0.008 250;
+
+    /* Accent */
+    --accent: 0.94 0.012 252;
+    --accent-foreground: 0.182 0.014 264;
+
+    /* Destructive */
+    --destructive: 0.577 0.245 27.325;
+    --destructive-foreground: 0.985 0 0;
+
+    /* Border: #E6EBF2 */
+    --border: 0.922 0.011 250;
+    --input: 0.922 0.011 250;
+
+    /* Ring: primary blue */
+    --ring: 0.621 0.201 252;
+
+    /* Chart */
+    --chart-1: 0.646 0.222 41.116;
+    --chart-2: 0.6 0.118 184.704;
+    --chart-3: 0.398 0.07 227.392;
+    --chart-4: 0.828 0.189 84.429;
+    --chart-5: 0.769 0.188 70.08;
+
+    /* Sidebar: #F6F8FB */
+    --sidebar: 0.975 0.005 252;
+    --sidebar-foreground: 0.182 0.014 264;
+    --sidebar-primary: 0.621 0.201 252;
+    --sidebar-primary-foreground: 1 0 0;
+    --sidebar-accent: 0.95 0.008 252;
+    --sidebar-accent-foreground: 0.373 0.014 255;
+    --sidebar-border: 0.922 0.011 250;
+    --sidebar-ring: 0.621 0.201 252;
+
+    /* Custom */
+    --success: 0.726 0.196 145;
+    --success-foreground: 1 0 0;
+    --editor-bg: 0.112 0.04 270;
+    --editor-fg: 0.92 0.01 250;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+  }
+
+  code,
+  pre,
+  textarea.code-editor {
+    font-family: "JetBrains Mono", Menlo, Monaco, monospace;
+  }
+}
