@@ -89,106 +89,95 @@ export class ExternalBlob {
         return this;
     }
 }
-export interface Lesson {
-    id: string;
-    title: string;
-    quiz: {
-        question: string;
-        correctIndex: bigint;
-        options: Array<string>;
-    };
-    description: string;
-    starterCode: string;
-    solutionPattern: string;
-}
-export interface UserProgress {
-    quizScores: Array<[string, boolean]>;
-    completedLessons: Array<string>;
-}
-export interface Module {
-    id: string;
+export interface Message {
+    id: bigint;
     name: string;
-    lessons: Array<Lesson>;
+    text: string;
+    email: string;
 }
 export interface backendInterface {
-    getModules(): Promise<Array<Module>>;
-    getUserProgress(): Promise<UserProgress>;
-    markLessonComplete(lessonId: string): Promise<void>;
-    resetProgress(): Promise<void>;
-    submitQuizAnswer(lessonId: string, answerId: bigint): Promise<boolean>;
+    addMessage(text: string, name: string, email: string): Promise<bigint>;
+    getCurrentMessage(id: bigint): Promise<Message | null>;
+    getMessageById(id: bigint): Promise<Message>;
+    getMessages(): Promise<Array<Message>>;
+    getMessagesByName(name: string): Promise<Array<Message>>;
 }
+import type { Message as _Message } from "./declarations/backend.did.d.ts";
 export class Backend implements backendInterface {
     constructor(private actor: ActorSubclass<_SERVICE>, private _uploadFile: (file: ExternalBlob) => Promise<Uint8Array>, private _downloadFile: (file: Uint8Array) => Promise<ExternalBlob>, private processError?: (error: unknown) => never){}
-    async getModules(): Promise<Array<Module>> {
+    async addMessage(arg0: string, arg1: string, arg2: string): Promise<bigint> {
         if (this.processError) {
             try {
-                const result = await this.actor.getModules();
+                const result = await this.actor.addMessage(arg0, arg1, arg2);
                 return result;
             } catch (e) {
                 this.processError(e);
                 throw new Error("unreachable");
             }
         } else {
-            const result = await this.actor.getModules();
+            const result = await this.actor.addMessage(arg0, arg1, arg2);
             return result;
         }
     }
-    async getUserProgress(): Promise<UserProgress> {
+    async getCurrentMessage(arg0: bigint): Promise<Message | null> {
         if (this.processError) {
             try {
-                const result = await this.actor.getUserProgress();
+                const result = await this.actor.getCurrentMessage(arg0);
+                return from_candid_opt_n1(this._uploadFile, this._downloadFile, result);
+            } catch (e) {
+                this.processError(e);
+                throw new Error("unreachable");
+            }
+        } else {
+            const result = await this.actor.getCurrentMessage(arg0);
+            return from_candid_opt_n1(this._uploadFile, this._downloadFile, result);
+        }
+    }
+    async getMessageById(arg0: bigint): Promise<Message> {
+        if (this.processError) {
+            try {
+                const result = await this.actor.getMessageById(arg0);
                 return result;
             } catch (e) {
                 this.processError(e);
                 throw new Error("unreachable");
             }
         } else {
-            const result = await this.actor.getUserProgress();
+            const result = await this.actor.getMessageById(arg0);
             return result;
         }
     }
-    async markLessonComplete(arg0: string): Promise<void> {
+    async getMessages(): Promise<Array<Message>> {
         if (this.processError) {
             try {
-                const result = await this.actor.markLessonComplete(arg0);
+                const result = await this.actor.getMessages();
                 return result;
             } catch (e) {
                 this.processError(e);
                 throw new Error("unreachable");
             }
         } else {
-            const result = await this.actor.markLessonComplete(arg0);
+            const result = await this.actor.getMessages();
             return result;
         }
     }
-    async resetProgress(): Promise<void> {
+    async getMessagesByName(arg0: string): Promise<Array<Message>> {
         if (this.processError) {
             try {
-                const result = await this.actor.resetProgress();
+                const result = await this.actor.getMessagesByName(arg0);
                 return result;
             } catch (e) {
                 this.processError(e);
                 throw new Error("unreachable");
             }
         } else {
-            const result = await this.actor.resetProgress();
+            const result = await this.actor.getMessagesByName(arg0);
             return result;
         }
     }
-    async submitQuizAnswer(arg0: string, arg1: bigint): Promise<boolean> {
-        if (this.processError) {
-            try {
-                const result = await this.actor.submitQuizAnswer(arg0, arg1);
-                return result;
-            } catch (e) {
-                this.processError(e);
-                throw new Error("unreachable");
-            }
-        } else {
-            const result = await this.actor.submitQuizAnswer(arg0, arg1);
-            return result;
-        }
-    }
+}
+function from_candid_opt_n1(_uploadFile: (file: ExternalBlob) => Promise<Uint8Array>, _downloadFile: (file: Uint8Array) => Promise<ExternalBlob>, value: [] | [_Message]): Message | null {
+    return value.length === 0 ? null : value[0];
 }
 export interface CreateActorOptions {
     agent?: Agent;

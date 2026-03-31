@@ -7,31 +7,16 @@ export interface None {
     __kind__: "None";
 }
 export type Option<T> = Some<T> | None;
-export interface Lesson {
-    id: string;
-    title: string;
-    quiz: {
-        question: string;
-        correctIndex: bigint;
-        options: Array<string>;
-    };
-    description: string;
-    starterCode: string;
-    solutionPattern: string;
-}
-export interface UserProgress {
-    quizScores: Array<[string, boolean]>;
-    completedLessons: Array<string>;
-}
-export interface Module {
-    id: string;
+export interface Message {
+    id: bigint;
     name: string;
-    lessons: Array<Lesson>;
+    text: string;
+    email: string;
 }
 export interface backendInterface {
-    getModules(): Promise<Array<Module>>;
-    getUserProgress(): Promise<UserProgress>;
-    markLessonComplete(lessonId: string): Promise<void>;
-    resetProgress(): Promise<void>;
-    submitQuizAnswer(lessonId: string, answerId: bigint): Promise<boolean>;
+    addMessage(text: string, name: string, email: string): Promise<bigint>;
+    getCurrentMessage(id: bigint): Promise<Message | null>;
+    getMessageById(id: bigint): Promise<Message>;
+    getMessages(): Promise<Array<Message>>;
+    getMessagesByName(name: string): Promise<Array<Message>>;
 }

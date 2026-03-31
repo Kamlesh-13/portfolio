@@ -10,33 +10,18 @@ import type { ActorMethod } from '@icp-sdk/core/agent';
 import type { IDL } from '@icp-sdk/core/candid';
 import type { Principal } from '@icp-sdk/core/principal';
 
-export interface Lesson {
-  'id' : string,
-  'title' : string,
-  'quiz' : {
-    'question' : string,
-    'correctIndex' : bigint,
-    'options' : Array<string>,
-  },
-  'description' : string,
-  'starterCode' : string,
-  'solutionPattern' : string,
-}
-export interface Module {
-  'id' : string,
+export interface Message {
+  'id' : bigint,
   'name' : string,
-  'lessons' : Array<Lesson>,
-}
-export interface UserProgress {
-  'quizScores' : Array<[string, boolean]>,
-  'completedLessons' : Array<string>,
+  'text' : string,
+  'email' : string,
 }
 export interface _SERVICE {
-  'getModules' : ActorMethod<[], Array<Module>>,
-  'getUserProgress' : ActorMethod<[], UserProgress>,
-  'markLessonComplete' : ActorMethod<[string], undefined>,
-  'resetProgress' : ActorMethod<[], undefined>,
-  'submitQuizAnswer' : ActorMethod<[string, bigint], boolean>,
+  'addMessage' : ActorMethod<[string, string, string], bigint>,
+  'getCurrentMessage' : ActorMethod<[bigint], [] | [Message]>,
+  'getMessageById' : ActorMethod<[bigint], Message>,
+  'getMessages' : ActorMethod<[], Array<Message>>,
+  'getMessagesByName' : ActorMethod<[string], Array<Message>>,
 }
 export declare const idlService: IDL.ServiceClass;
 export declare const idlInitArgs: IDL.Type[];

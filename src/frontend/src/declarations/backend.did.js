@@ -8,67 +8,37 @@
 
 import { IDL } from '@icp-sdk/core/candid';
 
-export const Lesson = IDL.Record({
-  'id' : IDL.Text,
-  'title' : IDL.Text,
-  'quiz' : IDL.Record({
-    'question' : IDL.Text,
-    'correctIndex' : IDL.Nat,
-    'options' : IDL.Vec(IDL.Text),
-  }),
-  'description' : IDL.Text,
-  'starterCode' : IDL.Text,
-  'solutionPattern' : IDL.Text,
-});
-export const Module = IDL.Record({
-  'id' : IDL.Text,
+export const Message = IDL.Record({
+  'id' : IDL.Nat,
   'name' : IDL.Text,
-  'lessons' : IDL.Vec(Lesson),
-});
-export const UserProgress = IDL.Record({
-  'quizScores' : IDL.Vec(IDL.Tuple(IDL.Text, IDL.Bool)),
-  'completedLessons' : IDL.Vec(IDL.Text),
+  'text' : IDL.Text,
+  'email' : IDL.Text,
 });
 
 export const idlService = IDL.Service({
-  'getModules' : IDL.Func([], [IDL.Vec(Module)], ['query']),
-  'getUserProgress' : IDL.Func([], [UserProgress], ['query']),
-  'markLessonComplete' : IDL.Func([IDL.Text], [], []),
-  'resetProgress' : IDL.Func([], [], []),
-  'submitQuizAnswer' : IDL.Func([IDL.Text, IDL.Nat], [IDL.Bool], []),
+  'addMessage' : IDL.Func([IDL.Text, IDL.Text, IDL.Text], [IDL.Nat], []),
+  'getCurrentMessage' : IDL.Func([IDL.Nat], [IDL.Opt(Message)], ['query']),
+  'getMessageById' : IDL.Func([IDL.Nat], [Message], ['query']),
+  'getMessages' : IDL.Func([], [IDL.Vec(Message)], ['query']),
+  'getMessagesByName' : IDL.Func([IDL.Text], [IDL.Vec(Message)], ['query']),
 });
 
 export const idlInitArgs = [];
 
 export const idlFactory = ({ IDL }) => {
-  const Lesson = IDL.Record({
-    'id' : IDL.Text,
-    'title' : IDL.Text,
-    'quiz' : IDL.Record({
-      'question' : IDL.Text,
-      'correctIndex' : IDL.Nat,
-      'options' : IDL.Vec(IDL.Text),
-    }),
-    'description' : IDL.Text,
-    'starterCode' : IDL.Text,
-    'solutionPattern' : IDL.Text,
-  });
-  const Module = IDL.Record({
-    'id' : IDL.Text,
+  const Message = IDL.Record({
+    'id' : IDL.Nat,
     'name' : IDL.Text,
-    'lessons' : IDL.Vec(Lesson),
-  });
-  const UserProgress = IDL.Record({
-    'quizScores' : IDL.Vec(IDL.Tuple(IDL.Text, IDL.Bool)),
-    'completedLessons' : IDL.Vec(IDL.Text),
+    'text' : IDL.Text,
+    'email' : IDL.Text,
   });
   
   return IDL.Service({
-    'getModules' : IDL.Func([], [IDL.Vec(Module)], ['query']),
-    'getUserProgress' : IDL.Func([], [UserProgress], ['query']),
-    'markLessonComplete' : IDL.Func([IDL.Text], [], []),
-    'resetProgress' : IDL.Func([], [], []),
-    'submitQuizAnswer' : IDL.Func([IDL.Text, IDL.Nat], [IDL.Bool], []),
+    'addMessage' : IDL.Func([IDL.Text, IDL.Text, IDL.Text], [IDL.Nat], []),
+    'getCurrentMessage' : IDL.Func([IDL.Nat], [IDL.Opt(Message)], ['query']),
+    'getMessageById' : IDL.Func([IDL.Nat], [Message], ['query']),
+    'getMessages' : IDL.Func([], [IDL.Vec(Message)], ['query']),
+    'getMessagesByName' : IDL.Func([IDL.Text], [IDL.Vec(Message)], ['query']),
   });
 };
 
