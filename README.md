@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER SECTION WITH ANIMATED WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Prapti%20Mehta&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Kamlesh%20Satapathy&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Frontend%20Developer&descSize=20&descAlignY=55&animation=fadeIn"/>
 
 <!-- ANIMATED TYPING SVG -->
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%AE+Turning+Data+into+Intelligent+Solutions+with+AI;%F0%9F%A7%A0+Building+the+Future+with+Machine+Learning;%F0%9F%93%8A+Decoding+Patterns+%7C+Predicting+Outcomes;%E2%9A%A1+Innovating+at+the+Intersection+of+AI+%26+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%AE+Turning+Data+into+Intelligent+Solutions+with+AI;%F0%9F%A7%A0+Building+the+Future+with+Machine+Learning;%F0%9F%93%8A+Designing Interfaces+%7C+Enhancing+User+Experiences;%E2%9A%A1+Delivering+Performance+%26+Data" alt="Typing SVG" />
 </a>
 
 <br>
