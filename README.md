@@ -7,15 +7,15 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%AE+Turning+Data+into+Intelligent+Solutions+with+AI;%F0%9F%A7%A0+Building+the+Future+with+Machine+Learning;%F0%9F%93%8A+Designing Interfaces+%7C+Enhancing+User+Experiences;%E2%9A%A1+Delivering+Performance+%26+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🔮+Turning+Ideas+into+Interactive+Experiences;🧠+Building+Fast,+Modern+%26+User-Friendly+Interfaces;⚡+Designing+Interfaces+%7C+Enhancing+User+Experience;" alt="Typing Animation" />
 </a>
 
 <br>
 
 <!-- ANIMATED BADGES -->
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00d4ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-7b2ff7?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-00ff88?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-Modern%20Web%20Developement-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-UI/UX%20Implementation-7b2ff7?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Focus-API%20Integration-00ff88?style=for-the-badge&labelColor=0d1117"/>
 
 <br><br>
 
@@ -41,12 +41,12 @@
 
 <br>
 
-yaml
-name: Kamlesh Satapathy
-located_in: India
-education:
-  degree: Bsc Information Technology and Management
-  university: Utkal University
+Your
+name: Kamlesh Satapathy<br>
+located_in: India<br>
+education:<br>
+  degree: Bsc Information Technology and Management<br>
+  university: Utkal University<br>
   
 currently_working_on: Sign Language Recognition System
 learning: Advanced ML & Deep Learning
