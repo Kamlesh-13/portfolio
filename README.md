@@ -270,7 +270,7 @@ fun_fact: I love solving analytical problems ⚡
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/📜-Digital%20Productivity%3A%20with%20%26%20AI:%20-UNICEF-00d4ff?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📜-Digital%20Productivity%20with%20AI%20%7C%20UNICEF-00d4ff?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117"/>
 </td>
 </tr>
 </table>
@@ -333,7 +333,7 @@ fun_fact: I love solving analytical problems ⚡
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Kamlesh Satapathy-542a8a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/kamlesh-satapathy-542a8a238/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -341,7 +341,7 @@ fun_fact: I love solving analytical problems ⚡
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/u/Kamleshlipu/">
+<a href="https://instagram.com/Kamleshlipu/">
 <img src="https://img.shields.io/badge/Instagram-FFA116?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
 </a>
 &nbsp;
