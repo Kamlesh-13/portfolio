@@ -342,39 +342,7 @@ fun_fact: I love solving analytical problems ⚡
 
 <br>
 
-## 🐍 **Contribution Snake**
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamlesh-13/Kamlesh-13/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamlesh-13/Kamlesh-13/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kamlesh-13/Kamlesh-13/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kamlesh-13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
 
 ## 📫 **Connect With Me**
 
@@ -389,7 +357,7 @@ fun_fact: I love solving analytical problems ⚡
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Kamlesh-13/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/Instagram-FFA116?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="mailto:satapathykamlesh@gmail.com">
