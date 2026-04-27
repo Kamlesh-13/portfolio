@@ -57,7 +57,6 @@ Interests:
   - Computer Vision
 
 fun_fact: I love solving analytical problems ⚡
-```
 
 <br>
 
