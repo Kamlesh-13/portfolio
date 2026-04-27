@@ -333,22 +333,22 @@ fun_fact: I love solving analytical problems ⚡
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/kamlesh-satapathy-542a8a238/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<a href="https://linkedin.com/kamlesh-satapathy">
-<img src="https://img.shields.io/badge/Linkedln-181717?style=for-the-badge&logo=Linkedln&logoColor=white&labelColor=0d1117" alt="Linkedln"/>
-</a>
-&nbsp;
 <a href="https://github.com/Kamlesh-13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
+
 <a href="https://instagram.com/Kamleshlipu/">
-<img src="https://img.shields.io/badge/Instagram-FFA116?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-&nbsp;
+
 <a href="mailto:satapathykamlesh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 
 <br><br>
 
