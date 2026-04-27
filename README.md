@@ -20,10 +20,10 @@
 <br><br>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=prapti-mehta&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Kamlesh-13&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS"/>
 &nbsp;
-<a href="https://github.com/prapti-mehta?tab=followers">
-<img src="https://img.shields.io/github/followers/prapti-mehta?style=for-the-badge&color=7b2ff7&labelColor=0d1117&label=FOLLOWERS"/>
+<a href="https://github.com/Kamlesh-13?tab=followers">
+<img src="https://img.shields.io/github/followers/Kamlesh-13?style=for-the-badge&color=7b2ff7&labelColor=0d1117&label=FOLLOWERS"/>
 </a>
 
 </div>
