@@ -45,7 +45,6 @@
 
 <br>
 
-```yaml
 Name: Kamlesh Satapathy
 Location: India
 Education: BSc in Information Technology & Management
