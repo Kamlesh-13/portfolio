@@ -334,7 +334,7 @@ fun_fact: I love solving analytical problems ⚡
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kamlesh-satapathy-542a8a238/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/Linkedln-181717?style=for-the-badge&logo=Linkedln&logoColor=white&labelColor=0d1117" alt="Linkedln"/>
 </a>
 &nbsp;
 <a href="https://github.com/Kamlesh-13">
