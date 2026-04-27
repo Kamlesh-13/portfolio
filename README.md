@@ -348,7 +348,7 @@ fun_fact: I love solving analytical problems ⚡
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/Kamlesh-13-542a8a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/Kamlesh Satapathy-542a8a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -356,7 +356,7 @@ fun_fact: I love solving analytical problems ⚡
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/Kamlesh-13/">
+<a href="https://leetcode.com/u/Kamleshlipu/">
 <img src="https://img.shields.io/badge/Instagram-FFA116?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
 </a>
 &nbsp;
