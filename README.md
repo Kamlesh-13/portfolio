@@ -241,18 +241,18 @@ fun_fact: I love solving analytical problems ⚡
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prapti-mehta&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&ring_color=7b2ff7&hide_border=false" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kamlesh-13&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&ring_color=7b2ff7&hide_border=false" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prapti-mehta&theme=radical&background=0d1117&border=00d4ff&stroke=00d4ff&ring=7b2ff7&fire=00ff88&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=7b2ff7&dates=c9d1d9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamlesh-13&theme=radical&background=0d1117&border=00d4ff&stroke=00d4ff&ring=7b2ff7&fire=00ff88&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=7b2ff7&dates=c9d1d9" alt="GitHub Streak"/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prapti-mehta&layout=donut-vertical&theme=radical&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamlesh-13&layout=donut-vertical&theme=radical&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" alt="Top Languages"/>
 
 <br><br>
 
 <!-- ACTIVITY GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=prapti-mehta&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00ff88&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kamlesh-13&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00ff88&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 
@@ -312,8 +312,8 @@ fun_fact: I love solving analytical problems ⚡
 | Language | Proficiency |
 |:--------:|:----------:|
 | English | ⬤⬤⬤⬤⬤ |
-| Hindi | ⬤⬤⬤⬤◯ |
-| Gujarati | ⬤⬤⬤⬤◯ |
+| Hindi | ⬤◯◯◯◯ |
+| Odia | ⬤⬤⬤⬤⬤ |
 
 </td>
 <td width="50%" valign="top">
@@ -347,9 +347,9 @@ fun_fact: I love solving analytical problems ⚡
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prapti-mehta/prapti-mehta/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prapti-mehta/prapti-mehta/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/prapti-mehta/prapti-mehta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamlesh-13/Kamlesh-13/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamlesh-13/Kamlesh-13/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kamlesh-13/Kamlesh-13/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -365,7 +365,7 @@ fun_fact: I love solving analytical problems ⚡
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prapti-mehta&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kamlesh-13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -380,19 +380,19 @@ fun_fact: I love solving analytical problems ⚡
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prapti-mehta-542a8a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/Kamlesh-13-542a8a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://github.com/prapti-mehta">
+<a href="https://github.com/Kamlesh-13">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/Prapti_Mehta/">
+<a href="https://leetcode.com/u/Kamlesh-13/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/>
 </a>
 &nbsp;
-<a href="mailto:praptimehta13@gmail.com">
+<a href="mailto:satapathykamlesh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
 </a>
 
