@@ -61,7 +61,7 @@
 <br>
 
 💡 **Fun Fact**  
-<img src="https://img.shields.io/badge/I%20love%20solving%20analytical%20problems-ffaa00?style=for-the-badge&logo=lightning&logoColor=black"/>
+<img src="https://img.shields.io/badge/Fascinated%20by%20how%20AI%20solves%20real%20world%20problems-ffaa00?style=for-the-badge"/>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
