@@ -42,15 +42,15 @@
 <br>
 
 Your
-name: Kamlesh Satapathy<br>
-located_in: India<br>
-education:<br>
-  degree: Bsc Information Technology and Management<br>
-  university: Utkal University<br>
+Name: Kamlesh Satapathy<br>
+Located_in: India<br>
+Education: Graduation<br>
+  Degree: Bsc Information Technology and Management<br>
+  University: Utkal University<br>
   
-currently_working_on: Sign Language Recognition System
-learning: Advanced ML & Deep Learning
-interests:
+Currently_working_on: Sign Language Recognition System
+Learning: Advanced ML & Deep Learning
+Interests:
   - AI Systems
   - Predictive Analytics
   - Generative AI
