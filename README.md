@@ -45,7 +45,8 @@
 <p>
 <img src="https://img.shields.io/badge/Name-Kamlesh%20Satapathy-00d4ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location-India-7b2ff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Degree-BSc%20IT%20%26%20Management-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Education-Graduation (Bsc)-ff9f43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Degree-Information%20Technology and%20%26%20Management-00ff88?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University-Utkal%20University-ff6f61?style=for-the-badge"/>
 </p>
 
