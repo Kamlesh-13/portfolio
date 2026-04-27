@@ -91,7 +91,7 @@ fun_fact: I love solving analytical problems ⚡
 <br><b>Java</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C"/>
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
 <br><b>C</b>
 </td>
 </tr>
