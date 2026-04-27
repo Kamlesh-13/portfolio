@@ -270,22 +270,7 @@ fun_fact: I love solving analytical problems ⚡
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🏅-Reliance%20Foundation%20Scholarship-FFD700?style=for-the-badge&labelColor=0d1117"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📜-Supervised%20ML%3A%20Regression%20%26%20Classification-00d4ff?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📜-Advanced%20Learning%20Algorithms%20%26%20Neural%20Networks-7b2ff7?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📜-Google%20Data%20Analytics%20Certification-00ff88?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📜-Digital%20Productivity%3A%20with%20%26%20AI:%20-UNICEF-00d4ff?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0d1117"/>
 </td>
 </tr>
 </table>
