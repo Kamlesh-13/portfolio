@@ -35,18 +35,21 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> <b>About Me</b>
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
+<div align="center">
+
+<img align="right" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
+
+</div>
 
 <br>
 
-Your
-Name: Kamlesh Satapathy<br>
-Located_in: India<br>
-Education: Graduation<br>
-  Degree: Bsc Information Technology and Management<br>
-  University: Utkal University<br>
+```yaml
+Name: Kamlesh Satapathy
+Location: India
+Education: BSc in Information Technology & Management
+University: Utkal University
   
 Currently_working_on: Sign Language Recognition System
 Learning: Advanced ML & Deep Learning
