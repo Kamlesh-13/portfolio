@@ -134,8 +134,8 @@ fun_fact: I love solving analytical problems ⚡
 <br><b>VS Code</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Sublime"/>
-<br><b>Figma</b>
+<img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime"/>
+<br><b>Sublime</b>
 </td>
 </tr>
 </table>
