@@ -91,65 +91,22 @@ fun_fact: I love solving analytical problems ⚡
 <br><b>Java</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"/>
-<br><b>R</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
-<br><b>C/C++</b>
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C"/>
+<br><b>C</b>
 </td>
 </tr>
 </table>
 
 <br>
 
-### 🤖 AI & Machine Learning
-<br>
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
-<br><b>TensorFlow</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
-<br><b>PyTorch</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/>
-<br><b>Scikit-learn</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/>
-<br><b>OpenCV</b>
-</td>
-</tr>
-</table>
 
-<br>
 
 ### 📊 Data Analytics & Visualization
 <br>
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-<br><b>Pandas</b>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-<br><b>NumPy</b>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau"/>
-<br><b>Tableau</b>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="PowerBI"/>
-<br><b>Power BI</b>
-</td>
 <td align="center" width="110">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <br><b>Excel</b>
@@ -177,12 +134,8 @@ fun_fact: I love solving analytical problems ⚡
 <br><b>VS Code</b>
 </td>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Sublime"/>
 <br><b>Figma</b>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<br><b>Jupyter</b>
 </td>
 </tr>
 </table>
