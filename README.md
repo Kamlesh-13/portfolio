@@ -31,44 +31,36 @@
 <br>
 
 <!-- ANIMATED DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> <b>About Me</b>
+## 🧑‍💻 About Me
 
-<div align="center">
-
-<img align="right" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
-
-</div>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <br>
 
-Name: Kamlesh Satapathy
-Location: India
-Education: BSc in Information Technology & Management
-University: Utkal University
-  
-Currently_working_on: Sign Language Recognition System
-Learning: Advanced ML & Deep Learning
-Interests:
-  - AI Systems
-  - Predictive Analytics
-  - Generative AI
-  - Computer Vision
-
-fun_fact: I love solving analytical problems ⚡
+<p>
+<img src="https://img.shields.io/badge/Name-Kamlesh%20Satapathy-00d4ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-7b2ff7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Degree-BSc%20IT%20%26%20Management-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/University-Utkal%20University-ff6f61?style=for-the-badge"/>
+</p>
 
 <br>
 
 - 🔭 Currently building a **Sign Language Recognition System**
-- 🌱 Exploring **Advanced Machine Learning & Deep Learning**
+- 🌱 Exploring **Advanced Web Development & Deep Learning**
 - 📊 Passionate about **AI Systems, Predictive Analytics & GenAI**
 - 🎯 Goal: **Build AI solutions that make real-world impact**
-- 💬 Ask me about **Python, ML, Data Science, AI**
+- 💬 Ask me about **Python, HTML, CSS, C, AI**
 
-<br clear="both">
+<br>
+
+💡 **Fun Fact**  
+<img src="https://img.shields.io/badge/I%20love%20solving%20analytical%20problems-ffaa00?style=for-the-badge&logo=lightning&logoColor=black"/>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
