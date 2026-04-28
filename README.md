@@ -144,70 +144,94 @@
 
 <br>
 
-## 🚀 **Featured Projects**
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📈 Stock Market Prediction & Portfolio Optimization
-<br>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</div>
 <br>
 
-> 🔮 ML model that predicts stock trends and optimizes investment portfolios using advanced data analytics and time-series forecasting.
+## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/prapti-mehta/stock-market-prediction">
-<img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-</td>
-<td width="50%">
 
-### 🧬 Cancer Detection System
-<br>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</div>
-<br>
-
-> 🏥 AI-based medical prediction system that detects potential cancer patterns using deep learning algorithms on medical imaging data.
-
-<div align="center">
-<a href="https://github.com/prapti-mehta/cancer-detection">
-<img src="https://img.shields.io/badge/View_Project-7b2ff7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-</td>
-</tr>
+<table>
 <tr>
-<td colspan="2">
 
-### 🤟 Sign Language Recognition System &nbsp; <img src="https://img.shields.io/badge/Status-In%20Progress-00ff88?style=flat-square"/>
-<br>
+<!-- PROJECT 1 -->
+<td width="33%">
+<h3 align="center">🌐 Portfolio Website</h3>
+
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </div>
+
 <br>
 
-> ✋ Computer vision and machine learning system that interprets sign language gestures in real-time, bridging communication gaps with AI-powered gesture recognition.
+<p align="center">
+Personal portfolio website showcasing my skills, projects, and achievements with a clean and responsive design.
+</p>
 
 <div align="center">
-<a href="https://github.com/prapti-mehta/sign-language-recognition">
-<img src="https://img.shields.io/badge/View_Project-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/Kamlesh-13/portfolio">
+<img src="https://img.shields.io/badge/View%20Project-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
+
 </td>
+
+<!-- PROJECT 2 -->
+<td width="33%">
+<h3 align="center">🏫 College Website</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
+
+<br>
+
+<p align="center">
+A responsive college website with multiple pages including courses, faculty, and contact sections.
+</p>
+
+<div align="center">
+<a href="https://github.com/Kamlesh-13/college-website">
+<img src="https://img.shields.io/badge/View%20Project-7b2ff7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+</td>
+
+<!-- PROJECT 3 -->
+<td width="33%">
+<h3 align="center">🍽️ Restaurant Website</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</div>
+
+<br>
+
+<p align="center">
+Modern restaurant website featuring menu, booking section, and responsive UI for better user experience.
+</p>
+
+<div align="center">
+<a href="https://github.com/Kamlesh-13/restaurant-website">
+<img src="https://img.shields.io/badge/View%20Project-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</div>
+
+</td>
+
 </tr>
 </table>
 
-<br>
+</div>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
