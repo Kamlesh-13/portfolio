@@ -146,24 +146,6 @@
 
 ## 🚀 **Featured Projects**
 
-<div align="center">
-
-<a href="https://github.com/prapti-mehta/stock-market-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prapti-mehta&repo=stock-market-prediction&theme=radical&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/prapti-mehta/cancer-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prapti-mehta&repo=cancer-detection&theme=radical&bg_color=0d1117&border_color=7b2ff7&icon_color=7b2ff7&title_color=7b2ff7&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%">
-
 ### 📈 Stock Market Prediction & Portfolio Optimization
 <br>
 <div align="center">
