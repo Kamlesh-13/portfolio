@@ -151,12 +151,37 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <div align="center">
 
 <table>
 <tr>
 
 <!-- PROJECT 1 -->
+<td width="33%">
+<h3 align="center">🏫 College Website</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</div>
+
+<br>
+
+<p align="center">
+Developed a multi-page college website with structured sections like courses, faculty, gallery, and contact. Built during a hackathon.
+</p>
+
+<div align="center">
+<a href="https://github.com/Kamlesh-13/college-website">
+<img src="https://img.shields.io/badge/View%20Project-7b2ff7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+</td>
+
+<!-- PROJECT 2 -->
 <td width="33%">
 <h3 align="center">🌐 Portfolio Website</h3>
 
@@ -169,43 +194,23 @@
 <br>
 
 <p align="center">
-Personal portfolio website showcasing my skills, projects, and achievements with a clean and responsive design.
+Personal portfolio website showcasing skills and projects with interactive elements and responsive design.
 </p>
 
 <div align="center">
 <a href="https://github.com/Kamlesh-13/portfolio">
-<img src="https://img.shields.io/badge/View%20Project-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </div>
 
 </td>
 
-<!-- PROJECT 2 -->
-<td width="33%">
-<h3 align="center">🏫 College Website</h3>
+</tr>
 
-<div align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</div>
-
-<br>
-
-<p align="center">
-A responsive college website with multiple pages including courses, faculty, and contact sections.
-</p>
-
-<div align="center">
-<a href="https://github.com/Kamlesh-13/college-website">
-<img src="https://img.shields.io/badge/View%20Project-7b2ff7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
-
-</td>
+<tr>
 
 <!-- PROJECT 3 -->
-<td width="33%">
+<td colspan="3">
 <h3 align="center">🍽️ Restaurant Website</h3>
 
 <div align="center">
@@ -217,18 +222,19 @@ A responsive college website with multiple pages including courses, faculty, and
 <br>
 
 <p align="center">
-Modern restaurant website featuring menu, booking section, and responsive UI for better user experience.
+Built a modern restaurant website with menu, booking, reviews, and contact sections. Focused on user-friendly UI and responsiveness.
 </p>
 
 <div align="center">
 <a href="https://github.com/Kamlesh-13/restaurant-website">
-<img src="https://img.shields.io/badge/View%20Project-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/View%20Project-ffaa00?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </div>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
